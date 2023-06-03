@@ -1,2 +1,3 @@
-My first commit
-Repo session
+My first commit. 
+Repo session.
+Coding fury road.
